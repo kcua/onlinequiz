@@ -1,4 +1,4 @@
-package com.mycompany.onlinequiz.resources;
+package com.mycompany.onlinequiz;
 
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;
