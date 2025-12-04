@@ -1,0 +1,12 @@
+com\mycompany\onlinequiz\models\User.class
+com\mycompany\onlinequiz\db\Database.class
+com\mycompany\onlinequiz\models\Question.class
+com\mycompany\onlinequiz\JakartaRestConfiguration.class
+com\mycompany\onlinequiz\models\Submission.class
+com\mycompany\onlinequiz\api\UserResource.class
+com\mycompany\onlinequiz\resources\JakartaEE10Resource.class
+com\mycompany\onlinequiz\api\QuestionResource.class
+com\mycompany\onlinequiz\api\LoginResource.class
+com\mycompany\onlinequiz\models\Quiz.class
+com\mycompany\onlinequiz\api\QuizResource.class
+com\mycompany\onlinequiz\api\SubmissionResource.class
